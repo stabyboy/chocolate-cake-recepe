@@ -1,0 +1,1 @@
+tomate,fresas,queso,carne fresca
